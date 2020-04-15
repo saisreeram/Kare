@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95e2d3e0-9dba-4056-a1ea-742d3a65321c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/company/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/company/edit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/company/showreviews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/donation/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/superuser/l.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Orphanage-Management-System-SOAD-dummy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/donation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donation/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/donation/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donation/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/donation/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donation/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/donation/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/donation/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0002_auto_20191114_2142.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0003_auto_20191114_2331.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0004_auto_20191115_0016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0005_verification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0006_auto_20191116_1010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/migrations/0007_auto_20191116_1022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/4/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/5/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/Dinesh OC/1234567890.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/90A31A11-383C-401C-AAED-07AD3F52AEAC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/EHN6IsYUUAAgoK1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_110_onIBEM5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_13_MoKajkU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_1_9t6mPvp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_1_DMPGVL1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_1_DUfFa5F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_1_I3opxiO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_1_wuV2mEE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/screen-shot-2018-05-25-at-4.11.38-pm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/screen-shot-2018-05-25-at-4.11.38-pm_Lap8n8c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/None/sunset-22-19201080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/Screenshot_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/Screenshot_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/Screenshot_43_sEHTZnG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/Screenshot_43_yI05LoA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/o age/Screenshot_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/o age/Screenshot_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/o care4/Screenshot_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/o care5/Screenshot_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/o care6/Screenshot_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/oage1/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/qwer/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/orphanage_image/sa9087/get-hired-with-the-udacity-career-portal.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Orphanage-Management-System-SOAD-dummy.pyproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Orphanage-Management-System-SOAD.pyproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Orphanage-Management-System-SOAD.pyproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/SOAD.pyproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/oms/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/oms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orphanageadmin/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/orphanageadmin/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/registration/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superuser/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/superuser/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superuser/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/superuser/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/Accepted.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/Accepted.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/Rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/Rejected.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/donation_completed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/donation_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/donation_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/gatewaypage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/money.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/money.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/paypal_cancel.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/paypal_cancel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/paypal_return.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/paypal_return.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/requestplaced.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/requestplaced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/social.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/donation/valuables.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/donation/valuables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/homepage/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/homepage/index12.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage/index12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/orphanageadmin/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/orphanageadmin/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/orphanageadmin/edit_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/orphanageadmin/edit_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/orphanageadmin/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/orphanageadmin/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/orphanageadmin/showevent.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/orphanageadmin/showevent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/acc_active_email.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/acc_active_email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/password_reset_complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/password_reset_complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/password_reset_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/password_reset_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/password_reset_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/password_reset_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/signup_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/signup_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/superuser/acceptedevents.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/superuser/acceptedevents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/superuser/rejectedevents.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/superuser/rejectedevents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/superuser/requestedevents.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/superuser/requestedevents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/userdashboard/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/userdashboard/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/userdashboard/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/userdashboard/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userdashboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/userdashboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userdashboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/userdashboard/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>catering</find>
+      <find>demo</find>
+      <find>myfun</find>
+      <find>myfu</find>
+      <find>getjson</find>
+      <find>block</find>
+      <find>switch</find>
+      <find>getjson block</find>
+      <find>image_upload</find>
+      <find>DOB</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\Orphanage-Management-System-SOAD\Orphanage-Management-System-SOAD\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLaUdMTav1mgxG0CG1r8MUDCTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\Orphanage-Management-System-SOAD\static\company" />
+      <recent name="C:\project\Orphanage-Management-System-SOAD\homepage" />
+      <recent name="C:\project\Orphanage-Management-System-SOAD\templates\superuser" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Orphanage-Management-System-SOAD" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Orphanage-Management-System-SOAD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="oms.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95e2d3e0-9dba-4056-a1ea-742d3a65321c" name="Default Changelist" comment="" />
+      <created>1575905038452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575905038452</updated>
+      <workItem from="1575905043278" duration="957000" />
+      <workItem from="1575906032255" duration="13593000" />
+      <workItem from="1575952586502" duration="35429000" />
+      <workItem from="1576068497509" duration="18334000" />
+      <workItem from="1582724347574" duration="58000" />
+      <workItem from="1586229743759" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586229751763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586229751763" />
+  </component>
+</project>
